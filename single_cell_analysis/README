@@ -1,6 +1,7 @@
 #### scripts for analyzing single cell RNA-seq data
 (original scripts were generously provided by the authors of the single cell HGSOC study,
 were well documented and were modified for the latest version of Seurat)
+(Olbrecht et al. 2021)
 
 mod_12_initialize_seurat.R
 mod_13_filter_normalize_scale.R
