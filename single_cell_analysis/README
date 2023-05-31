@@ -1,0 +1,12 @@
+#### scripts for analyzing single cell RNA-seq data
+(original scripts were generously provided by the authors of the single cell HGSOC study,
+were well documented and were modified for the latest version of Seurat)
+
+mod_12_initialize_seurat.R
+mod_13_filter_normalize_scale.R
+mod_14_analyze_expression.R
+mod_15_cluster_cells.R
+
+#### R script for differential expression analysis
+
+PAX8_DEA_final.R
