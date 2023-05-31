@@ -1,0 +1,21 @@
+### scripts for processing of fastq files
+random_regions.sh
+index_kallisto.sh
+kallisto_enhancer.sh
+F5.hg38.filt.sh
+bedtofasta.sh
+
+### scripts to analyze the enhancer RNA calls
+eRNA_analysis_51423.R ## main R script to plot figures
+filter_gene_hg38.sort.bed.sh
+
+filter_kallisto_called_gene.sh
+grep_genehancer_data_specific_genes.sh
+
+# script for intersecting significant eRNAs and genehancer data
+intersect_genehancer_sign_eRNA.sh
+
+# script for intersecting significant eRNAs and pancancer data
+intersect_pancan_prognostic_POCROC_eRNA.sh
+intersect_specific_enhancers_prognostic_POCROC_eRNA.sh
+prep_bedfiles_forintersect.sh
