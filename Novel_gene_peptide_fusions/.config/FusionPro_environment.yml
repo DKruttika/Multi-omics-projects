@@ -1,0 +1,15 @@
+name: FusionPro
+channels:
+  - bioconda
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - perl=5.26.2=h14c3975_0
+  - perl-encode=2.88=pl526_1
+  - perl-encode-locale=1.05=pl526_6
+  - perl-exporter=5.72=pl526_1
+  - perl-lwp-simple=6.15=pl526h470a237_4
+  - perl-parent=0.236=pl526_1
+prefix: /home/dabkek/miniconda3/envs/FusionPro

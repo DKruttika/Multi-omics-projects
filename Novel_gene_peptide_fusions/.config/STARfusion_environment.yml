@@ -1,0 +1,5 @@
+name: starfusion2
+channels:
+  - conda-forge
+  - defaults
+prefix: /home/dabkek/miniconda3/envs/starfusion2
