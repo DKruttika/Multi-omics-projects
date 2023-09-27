@@ -7,4 +7,4 @@ Projects include:
 2. Detection of novel fusion genes and peptides in HGSOC 
 3. Identification of eRNA from bulk RNA-seq data of HGSOC
 4. Analysis of single cell HGSOC data
-
+5. Spatial data analysis (python/R scripts)
