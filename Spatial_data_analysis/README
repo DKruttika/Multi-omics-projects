@@ -1,0 +1,16 @@
+##### directory contains scripts for analyzing spatial data from Akoya
+
+Cell segmentation and clustering was done with STARdist and MIA (Akoya software)
+
+### analysis for cell type counts in each sample ##
+
+run the run_cell_type_summary_function_91123.sh script which runs the Rscript to get summarized counts of different cell types per sample
+A single file for each sample is generated and stored in the ./summarized_results/ folder with the same name as original file (.dat extension)
+
+Then merged all the .dat files into one using the paste_files.sh script in the ./summarized_results/ folder to generate the final data frame used in the 
+downstream analysis: merged_cell_summary_akoya.txt
+
+### python script run: .py to read in the matlab files (.mat)
+
+
+
