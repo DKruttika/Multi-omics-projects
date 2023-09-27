@@ -12,4 +12,4 @@ dependencies:
   - perl-exporter=5.72=pl526_1
   - perl-lwp-simple=6.15=pl526h470a237_4
   - perl-parent=0.236=pl526_1
-prefix: /home/dabkek/miniconda3/envs/FusionPro
+prefix: 
